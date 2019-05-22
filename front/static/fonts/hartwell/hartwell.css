@@ -1,0 +1,76 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3763465, 2019-05-22T15:23:30-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Hartwell-Black by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/black/
+ * 
+ * Webfont: Hartwell-Bold by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/bold/
+ * 
+ * Webfont: Hartwell-Blackitalic by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/black-italic/
+ * 
+ * Webfont: Hartwell-Bolditalic by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/bold-italic/
+ * 
+ * Webfont: Hartwell-Light by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/light/
+ * 
+ * Webfont: Hartwell-Lightitalic by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/light-italic/
+ * 
+ * Webfont: Hartwell-Regularitalic by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/regular-italic/
+ * 
+ * Webfont: Hartwell-Regular by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/regular/
+ * 
+ * Webfont: HartwellAlt-Black by W Foundry
+ * URL: https://www.myfonts.com/fonts/without-foundry/hartwell/alt-black/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3763465
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Todolos 
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/396d09");
+
+  
+@font-face {font-family: 'Hartwell-Black';src: url('webfonts/396D09_0_0.eot');src: url('webfonts/396D09_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_0_0.woff2') format('woff2'),url('webfonts/396D09_0_0.woff') format('woff'),url('webfonts/396D09_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell';font-weight: bold;font-style: normal;src: url('webfonts/396D09_1_0.eot');src: url('webfonts/396D09_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_1_0.woff2') format('woff2'),url('webfonts/396D09_1_0.woff') format('woff'),url('webfonts/396D09_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell-Blackitalic';src: url('webfonts/396D09_2_0.eot');src: url('webfonts/396D09_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_2_0.woff2') format('woff2'),url('webfonts/396D09_2_0.woff') format('woff'),url('webfonts/396D09_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell';font-weight: bold;font-style: italic;src: url('webfonts/396D09_3_0.eot');src: url('webfonts/396D09_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_3_0.woff2') format('woff2'),url('webfonts/396D09_3_0.woff') format('woff'),url('webfonts/396D09_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell-Light';src: url('webfonts/396D09_4_0.eot');src: url('webfonts/396D09_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_4_0.woff2') format('woff2'),url('webfonts/396D09_4_0.woff') format('woff'),url('webfonts/396D09_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell';font-weight: normal;font-style: normal;src: url('webfonts/396D09_5_0.eot');src: url('webfonts/396D09_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_5_0.woff2') format('woff2'),url('webfonts/396D09_5_0.woff') format('woff'),url('webfonts/396D09_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell';font-weight: normal;font-style: italic;src: url('webfonts/396D09_6_0.eot');src: url('webfonts/396D09_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_6_0.woff2') format('woff2'),url('webfonts/396D09_6_0.woff') format('woff'),url('webfonts/396D09_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Hartwell-Regular';src: url('webfonts/396D09_7_0.eot');src: url('webfonts/396D09_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_7_0.woff2') format('woff2'),url('webfonts/396D09_7_0.woff') format('woff'),url('webfonts/396D09_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HartwellAlt-Black';src: url('webfonts/396D09_8_0.eot');src: url('webfonts/396D09_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/396D09_8_0.woff2') format('woff2'),url('webfonts/396D09_8_0.woff') format('woff'),url('webfonts/396D09_8_0.ttf') format('truetype');}
+ 
